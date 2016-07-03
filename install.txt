@@ -1,0 +1,6 @@
+To install, download and install Python3 from www.python.org
+Then, from a terminal, install the supporting packages:
+    pip install -r requirements.txt
+
+You will then be able to run the script:
+    python bookit.py -h
